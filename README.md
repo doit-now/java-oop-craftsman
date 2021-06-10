@@ -4,7 +4,8 @@
 * Java OOP Cheat Sheet
 * Các lát cắt (atlas) kiến thức quan trọng
 * Project CRUD mẫu - PetCare System
-* Dependency Injection source code
+* Source code - Dependency Injection
+* Source code - Mảng đối tượng
 * Video bài giảng - [giáo.làng channel](https://www.youtube.com/channel/UChsPO5CLUjOWfgwjfC2Y-Wg)
 * Đang cập nhật...
 
